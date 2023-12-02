@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon"
+    "dev": "npx nodemon"
   },
   "author": "Alvene Celindro",
   "license": "MIT",
